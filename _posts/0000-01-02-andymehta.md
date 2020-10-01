@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+You have to get up everyday and fight for your place under the Sun!
+Jr. Bachchan
+
+
